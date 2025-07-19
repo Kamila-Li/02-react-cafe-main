@@ -1,0 +1,20 @@
+
+.container {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    border: 1px solid gray;
+    border-radius: 10px;
+    padding: 0 20px;
+}
+
+.stat {
+    display: flex;
+    justify-content: space-between;
+    width: 300px;
+    
+}
+
+.number {
+    color: cornflowerblue;
+}
